@@ -1,6 +1,6 @@
 {
   "name": "@cryptix/core-lib",
-  "version": "1.6.6",
+  "version": "0.0.7",
   "main": "index.js",
   "authors": [
     {
