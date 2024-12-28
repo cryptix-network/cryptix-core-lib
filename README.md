@@ -1,7 +1,7 @@
 # JavaScript Data Primitives Library for Cryptix
 
 Based on the popular [Bitcore library](https://github.com/bitpay/bitcore)
-developed by BitPay for the Bitcoin and [Kaspacore](https://github.com/aspectron/kaspa-core-lib)
+developed by BitPay for the Bitcoin and [Cryptixcore](https://github.com/aspectron/kaspa-core-lib)
 developed by ASPECTRON Inc., Cryptixcore library provides primitives for
 interfacing with the Cryptix network.
 
@@ -50,6 +50,6 @@ Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/mas
 Bitcore - Copyright 2013-2019 BitPay, Inc. Bitcore is a trademark
 maintained by BitPay, Inc.
 
-Kaspacore - Copyright 2020 ASPECTRON Inc.
+Cryptixcore - Copyright 2020 ASPECTRON Inc.
 
 Cryptixcore - Copyright 2024 Cryptix.
